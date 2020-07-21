@@ -4,7 +4,7 @@ This repository contains supplementary material for the following work:
 - **Title**: "Differentially Private Top-k Selection via Stability on Unknown Domain"
 - **Authors**: Ricardo Silva Carvalho, Ke Wang, Lovedeep Gondara, Miao Chun Yan
 - **Venue**: (UAI 2020) 36th Conference on Uncertainty in Artificial Intelligence
-- **Paper URL**: To be added.
+- **Paper**: [paper.pdf](https://github.com/ricardocarvalhods/diff-priv-top-k-stability/blob/master/paper.pdf)
 
 For contact, feel free to reach out to "ricardosc" at gmail dot com, or via [personal website](https://ricardocarvalhods.github.io/).
 
